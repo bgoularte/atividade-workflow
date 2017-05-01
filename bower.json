@@ -1,0 +1,23 @@
+{
+  "name": "workflow",
+  "description": "aulas de workflow",
+  "main": "index.js",
+  "authors": [
+    "Bruno B Goularte"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "aula",
+    "npm",
+    "repositorios",
+    "ferramentas"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

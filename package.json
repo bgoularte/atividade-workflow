@@ -1,0 +1,24 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "aulas de workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "npm",
+    "repositorios",
+    "ferramentas"
+  ],
+  "author": "Bruno B Goularte",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-minify": "0.0.15",
+    "gulp-sass": "^3.1.0"
+  }
+}
